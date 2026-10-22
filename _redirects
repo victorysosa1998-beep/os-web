@@ -1,0 +1,8 @@
+# Stable, human-readable public routes and compatibility aliases
+/delete-account   /account-deletion/   301
+/delete-account/  /account-deletion/   301
+/privacy          /privacy-policy/     301
+/privacy/         /privacy-policy/     301
+/child-safety-standards /child-safety/ 301
+/trust             /safety-center/     301
+/data-safety       /data-practices/    301
